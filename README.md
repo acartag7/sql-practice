@@ -35,4 +35,12 @@ print(results)
 
 ## Projects
 
+### Project 1: Creating a database
+
+To create a database named `example.db`, you can use the following SQL query:
+
+```sql
+CREATE DATABASE example;
+```
+
 ## Queries
